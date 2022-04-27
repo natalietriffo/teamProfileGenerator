@@ -1,4 +1,4 @@
-const Engineer = require("../lib/Engineer");
+const Engineer = require("../lib/Engingeer");
 
 test("Can create a github.", () => {
     const testGithub = "Ash";
